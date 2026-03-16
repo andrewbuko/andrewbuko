@@ -1,4 +1,4 @@
-# Hi 👋 I'm Andrew Bukowski
+# Hello 👋 I'm Andrew Bukowski
 
 **Math & CS @ Yale**  
 Currently interested in AI, RL, and World Models
