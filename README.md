@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Andrew Bukowski</h1>
+# Hi 👋 I'm Andrew Bukowski
 
-<p align="center">
-Math & CS @ Yale <br>
-Interested in AI, RL, and world models
-</p>
+**Math & Computer Science @ Yale**  
+Interested in AI, Reinforcement Learning, and World Models
 
-- 📫 How to reach me: **andrew.bukowski@yale.edu**
-- 🌐 Website: **andrewbuko.com**
+📫 **Email:** andrew.bukowski@yale.edu  
+🌐 **Website:** https://andrewbuko.com
