@@ -1,8 +1,8 @@
-# Hello I'm Andrew Bukowski
+# hello i'm andrew bukowski
 
-**Math & CS @ Yale**  
-Currently interested in Sim2Real
+**math & cs @ yale**  
+currently interested in ml infra, foundation models, and sim2real
 
-**Email:** andrew.bukowski@yale.edu  
-**Website:** https://andrewbuko.com  
-**Twitter:** @andrbuko 
+**email:** andrew.bukowski@yale.edu  
+**website:** https://andrewbuko.com  
+**twitter:** @andrbuko 
