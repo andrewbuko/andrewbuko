@@ -1,6 +1,6 @@
 # hello i'm andrew bukowski
 
-currently tinkering in foundation models and sim2real 
+currently tinkering in sim2real and foundation models
 
 please reach out, i love talking to people :) 
 
